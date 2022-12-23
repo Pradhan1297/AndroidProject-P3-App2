@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project3(CS478)App2</string>
+    <string-array name="AttractionTitles">
+        <item>The Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>The Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>The TILT</item>
+    </string-array>
+    <string-array name="AttractionURLs">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/tilt</item>
+    </string-array>
+    <string-array name="HotelTitles">
+        <item>Pendry Chicago</item>
+        <item>The Peninsula Chicago</item>
+        <item>Sophy Hyde Park</item>
+        <item>Waldorf Astoria Chicago</item>
+        <item>Viceroy Chicago</item>
+    </string-array>
+    <string-array name="HotelURLs">
+        <item>https://www.pendry.com/chicago/</item>
+        <item>https://www.peninsula.com/en/chicago/5-star-luxury-hotel-downtown-chicago</item>
+        <item>https://sophyhotel.com/</item>
+        <item>https://www.waldorfastoriachicagohotel.com/</item>
+        <item>https://www.viceroyhotelsandresorts.com/chicago</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
